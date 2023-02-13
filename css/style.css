@@ -372,12 +372,12 @@ img {
 }
 
 .top-header-contact li a span:last-child {
-    margin-left: 10px;
+    margin-left: 1px;
     font-size: 12px;
 }
 
 .top-header-contact ul li {
-    margin-right: 45px;
+    margin-right: 1px;
 }
 
 .top-header-contact ul li:last-child {
