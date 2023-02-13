@@ -438,7 +438,7 @@ img {
     background-size: cover;
     background-position: center;
     position: relative;
-    padding: 315px 0 140px 0;
+    padding: 315px 0 60px 0;
     width: calc(100% - 19%);
     margin: auto;
 }
@@ -1391,7 +1391,7 @@ textarea.form-input {
         font-size: 15px;
     }
     .top-header {
-        padding: 39px 0;
+        padding: 5px 0;
     }
     .social-icons ul li a {
         font-size: 26px;
